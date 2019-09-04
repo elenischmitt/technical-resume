@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite restaurants in Tulsa:
+* Lone Wolf
+* The Local Bison
+* Laffa
