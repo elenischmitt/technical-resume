@@ -2,17 +2,17 @@
 <details>
   <summary>First Day on GitHub</summary>
   
-  - Introduction to GitHub
-  - Communication using Markdown
-  - Uploading Your Project to GitHub
+  1. Introduction to GitHub
+  2. Communication using Markdown
+  3. Uploading Your Project to GitHub
 </details>
 <details>
   <summary>First Week on GitHub</summary>
   
-  - GitHub Pages
-  - Reviewing pull requests
-  - Managing merge conflicts
-  - Securing your workflows
+  1. GitHub Pages
+  2. Reviewing pull requests
+  3. Managing merge conflicts
+  4. Securing your workflows
 </details>
 
 <br>
