@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% include 05-emphasis.md %}
+{% include 01-name.md %}
 
 <br>
 
-{% include 01-name.md %}
+{% include 05-emphasis.md %}
 
 <br>
 
