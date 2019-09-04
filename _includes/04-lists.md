@@ -2,8 +2,8 @@
 <details>
   <summary>First Day on GitHub</summary>
   
-  1. Introduction to GitHub
-  2. Communication using Markdown
+  1. Introduction to GitHub/n
+  2. Communication using Markdown/n
   3. Uploading Your Project to GitHub
 </details>
 <details>
