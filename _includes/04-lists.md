@@ -1,4 +1,4 @@
-### GitHub Learning Paths
+## GitHub Learning Paths
 <details>
   <summary>First Day on GitHub</summary>
   
@@ -16,4 +16,4 @@
 </details>
 
 <br>
-### Power BI
+## Power BI
