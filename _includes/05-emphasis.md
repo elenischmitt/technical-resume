@@ -1,1 +1,1 @@
-I worked as a **developer** this summer, mainly working within *Microsoft Dynamics* and occasionally using *JavaScript*. 
+I am a CIS student at the University of Tulsa graduating in May 2020. This summer I gained experience working as a developer for ONE Gas using Microsoft Dynamics.
