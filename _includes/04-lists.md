@@ -1,13 +1,13 @@
 ## GitHub Learning Paths
 <details>
-  <summary>First Day on GitHub</summary>
+  <summary>First Day on GitHub</summary><br>
   
     1. Introduction to GitHub <br>
     2. Communication using Markdown <br>
     3. Uploading Your Project to GitHub <br>
- </details>
+ </details><br>
 <details>
-  <summary>First Week on GitHub</summary>
+  <summary>First Week on GitHub</summary><br>
   
     1. GitHub Pages <br>
     2. Reviewing pull requests <br>
