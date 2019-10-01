@@ -21,9 +21,21 @@
 ## Power BI
 <details>
   <summary>Analyzing and Visualizing Data with Power BI</summary><br>
-  
+  This was the syllabus for my Power BI course.<br>
+  <img src="EdxCourse.jpeg" alt="Power BI Syllabus"><br>
+  <ul>
+    <li><b>Introduction:</b> This provided an overview of how Power BI works, including the tools and community that are available for support.</li>
+    <li><b>Power BI Desktop Data Transformations:</b> This chapter was about learning to handle data using Power BI Desktop. Specifically I practiced importing data from databases or other sources, editing for certain data types, transforming columns, and pulling only certain data using query parameters.</li>
+    <li><b>Power BI Desktop Modeling:</b> In this module I learned about how to manipulate data in the Power BI Desktop. This included creating new calculated columns or measures, filtering data, and learning about how to create and manipulate new data within the application.</li>
+    <li><b>Power BI Desktop Visualization:</b> For this section I created and worked with various visualizations including pie charts, treemaps, slicers, maps, waterfalls, scatter plots, gauges, and other elements.</li>
+    <li><b>Power BI Service:</b> This section focused on creating and sharing dashboards. Skills I gained included learning how to pin and arrange different elements into a dashboard and publishing that dashboard to the web.</li>
+    <li><b>Working with Excel:</b> This module helped to teach me about how Excel and Power BI work together. This included importing Excel data into Power BI, analyzing that data, and being able to pin data directly from Excel into Power BI.</li>
+    <li><b>Direct Connectivity:</b> This chapter was about using Power BI to connect to other data sources and extract data to analyze from them. As part of this section, I connected to a SQL database and used data from there to create visualizations and reports.</li>
+    <li><b>Developer API:</b> In this chapter I learned that Power BI can integrate with other applications to pull data and create custom visualizations. Specifically, I downloaded visuals such as Sunburst or Radar for this purpose.</li>
+    <li><b>Mobile App:</b> In this last module I learned about mobile access to Power BI, and learned how to modify reports and dashboards to be viewed on a mobile device.</li
+    <li><b>
 </details>
 <details>
   <summary>Example Dashboard</summary><br>
-  As part of my Power BI training I created an example dashboard using the Retail Analysis sample dataset from Microsoft. A video of me explaining my dashboard can be found <a href="https://youtu.be/M_BMv8Bf7pQ">here</a>.
+  As part of my Power BI training I created an example dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-retail-analysis">Retail Analysis</a> sample dataset from Microsoft. A video of me explaining my dashboard can be found <a href="https://youtu.be/M_BMv8Bf7pQ">here</a>.
 </details><br>
