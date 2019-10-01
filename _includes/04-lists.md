@@ -2,18 +2,18 @@
 <details>
   <summary>First Day on GitHub</summary><br>
   <ul>
-    <li>Introduction to GitHub</li>
-    <li>Communication using Markdown</li>
-    <li>Uploading Your Project to GitHub</li>
+    <li><b>Introduction to GitHub:</b> This went over the basics of GitHub. I assigned myself to an issue, and went through processes like creating branches and pull requests, and merging those pull requests.</li>
+    <li><b>Communication using Markdown:</b> With the help of this section, I used Markdown formatting to create lists, add headings, include images and links, and apply emphasis to text.</li>
+    <li><b>Uploading Your Project to GitHub:</b> For this last section of my first day I prepared a project and uploaded it to a private repository.</li>
   </ul>
  </details>
 <details>
   <summary>First Week on GitHub</summary><br>
   <ul>
-    <li>GitHub Pages</li>
-    <li>Reviewing pull requests</li>
-    <li>Managing merge conflicts</li>
-    <li>Securing your workflows</li>
+    <li><b>GitHub Pages:</b> In this section I created a GitHub Pages site and customized it with blogs and other items using pull requests.</li>
+    <li><b>Reviewing pull requests:</b> As part of this module I assigned myself to, commented on, and merged various pull requests, including looking at reviews and applying suggestions.</li>
+    <li><b>Managing merge conflicts:</b> In this section I created conflicts and merged pull requests once those conflicts were resolved.</li>
+    <li><b>Securing your workflows:</b> For this last section I enabled repository settings and updated the dependcy in order to secure my workflow.</li>
   </ul>
 </details>
 
@@ -21,8 +21,10 @@
 ## Power BI
 <details>
   <summary>Analyzing and Visualizing Data with Power BI</summary><br>
-  This was the syllabus for my Power BI course.<br>
-  <img src="EdxCourse.jpeg" alt="Power BI Syllabus"><br>
+  This is a copy of the syllabus for my Power BI course:<br>
+  <img src="EdxCourse.jpeg" alt="Power BI Syllabus"><br><br>
+  
+  Here's a breakdown of each chapter:
   <ul>
     <li><b>Introduction:</b> This provided an overview of how Power BI works, including the tools and community that are available for support.</li>
     <li><b>Power BI Desktop Data Transformations:</b> This chapter was about learning to handle data using Power BI Desktop. Specifically I practiced importing data from databases or other sources, editing for certain data types, transforming columns, and pulling only certain data using query parameters.</li>
@@ -32,8 +34,8 @@
     <li><b>Working with Excel:</b> This module helped to teach me about how Excel and Power BI work together. This included importing Excel data into Power BI, analyzing that data, and being able to pin data directly from Excel into Power BI.</li>
     <li><b>Direct Connectivity:</b> This chapter was about using Power BI to connect to other data sources and extract data to analyze from them. As part of this section, I connected to a SQL database and used data from there to create visualizations and reports.</li>
     <li><b>Developer API:</b> In this chapter I learned that Power BI can integrate with other applications to pull data and create custom visualizations. Specifically, I downloaded visuals such as Sunburst or Radar for this purpose.</li>
-    <li><b>Mobile App:</b> In this last module I learned about mobile access to Power BI, and learned how to modify reports and dashboards to be viewed on a mobile device.</li
-    <li><b>
+    <li><b>Mobile App:</b> In this last module I learned about mobile access to Power BI, and learned how to modify reports and dashboards to be viewed on a mobile device.</li>
+  </ul>
 </details>
 <details>
   <summary>Example Dashboard</summary><br>
