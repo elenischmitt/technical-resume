@@ -6,7 +6,7 @@
     <li>Communication using Markdown</li>
     <li>Uploading Your Project to GitHub</li>
   </ul>
- </details><br>
+ </details>
 <details>
   <summary>First Week on GitHub</summary><br>
   <ul>
@@ -22,8 +22,8 @@
 <details>
   <summary>Analyzing and Visualizing Data with Power BI</summary><br>
   
-</details><br>
+</details>
 <details>
   <summary>Example Dashboard</summary><br>
-  As part of my Power BI training I created an example dashboard using the Retail Analysis sample dataset from Microsoft. A video of me explaining my dashboard can be found here: https://youtu.be/M_BMv8Bf7pQ. 
+  As part of my Power BI training I created an example dashboard using the Retail Analysis sample dataset from Microsoft. A video of me explaining my dashboard can be found <a href="https://youtu.be/M_BMv8Bf7pQ">here</a>.
 </details><br>
