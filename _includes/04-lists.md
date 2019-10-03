@@ -42,7 +42,7 @@
   As part of my Power BI training I created an example dashboard using the <a href="https://docs.microsoft.com/en-us/power-bi/sample-retail-analysis">Retail Analysis</a> sample dataset from Microsoft. A video of me explaining my dashboard can be found <a href="https://youtu.be/M_BMv8Bf7pQ">here</a>.<br><br>
   My dashboard was creating using data collected from a retail business with two chains. My analyses mostly focused on sales or profit, and I also included one section focusing on business by geographic location and one section comparing newer stores to previously existing stores. <br><br>
   <img src= "Dashboard1.png" alt="Power BI Dashboard"><br>
-  <img src= "Dashboard2.png" alt="Power BI Dashboard"><br>
-  <img src= "Dashboard3.png" alt="Power BI Dashboard"><br>
+  <img src= "Dashboard2.png" alt="Power BI Dashboard"><br><br>
+  <img src= "Dashboard3.png" alt="Power BI Dashboard"><br><br>
   <img src= "Dashboard4.png" alt="Power BI Dashboard"><br>
 </details><br>
