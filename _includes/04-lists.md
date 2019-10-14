@@ -49,25 +49,25 @@
 
 ## Linux
 <details>
-  <summary>The Linux Community and a Career in Open Source><br>
+  <summary>The Linux Community and a Career in Open Source</summary><br>
   <ul>
     <li><b>Linux Evolution and Popular Operating Systems</b> </li>
     <li><b>Major Open-Source Applications</b> </li>
     <li><b>Open-Source Software and Licensing</b> </li>
     <li><b>ICT Skills and Working in Linux</b></li>
   </ul>
- </details>
-  <details>
-  <summary>Finding Your Way on a Linux System><br>
+</details>
+<details>
+  <summary>Finding Your Way on a Linux System</summary><br>
   <ul>
     <li><b>Command Line Basics</b> </li>
     <li><b>Using the Command Line to Get Help</b> </li>
     <li><b>Using Directories and Listing Files</b> </li>
     <li><b>Creating, Moving, and Deleting Files</b></li>
   </ul>
- </details>
-    <details>
-  <summary>The Power of the Command Line><br>
+</details>
+<details>
+  <summary>The Power of the Command Line</summary><br>
   <ul>
     <li><b>Archiving Files on the Command Line</b> </li>
     <li><b>Searching and Extracting Data from Files</b> </li>
@@ -75,7 +75,7 @@
   </ul>
  </details>
       <details>
-  <summary>The Linux Operating System><br>
+  <summary>The Linux Operating System</summary><br>
   <ul>
     <li><b>Choosing an Operating System</b> </li>
     <li><b>Understanding Computer Hardware</b> </li>
@@ -83,8 +83,8 @@
     <li><b>Your Computer on the Network</b></li>
   </ul>
  </details>
-        <details>
-  <summary>Security and File Permissions><br>
+ <details>
+  <summary>Security and File Permissions</summary><br>
   <ul>
     <li><b>Basic Security and Identifying User Types</b> </li>
     <li><b>Creating Users and Groups</b> </li>
