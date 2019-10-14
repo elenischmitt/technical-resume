@@ -60,36 +60,36 @@
 <details>
   <summary>Finding Your Way on a Linux System</summary><br>
   <ul>
-    <li><b>Command Line Basics</b> </li>
-    <li><b>Using the Command Line to Get Help</b> </li>
-    <li><b>Using Directories and Listing Files</b> </li>
-    <li><b>Creating, Moving, and Deleting Files</b></li>
+    <li><b>Command Line Basics: </b>Navigating the command line with commands such as pwd, cd, w, and last; setting, locating, and using variables; and how to properly use quotations or other syntax.</li>
+    <li><b>Using the Command Line to Get Help: </b>Accessing documentation such as man or info pages to learn more about a commmand or file. </li>
+    <li><b>Using Directories and Listing Files: </b>Learning about the Linux filesystem hierarcy in addition to moving around teh filesystem or between directories. Also learned about hidden files, a user's home directory, and absolute and relative paths.</li>
+    <li><b>Creating, Moving, and Deleting Files: </b>Learned how to create, move, and delete files and directories. Also looked at how globbing can be used to search for or select certain files or directories.</li>
   </ul>
 </details>
 <details>
   <summary>The Power of the Command Line</summary><br>
   <ul>
-    <li><b>Archiving Files on the Command Line</b> </li>
-    <li><b>Searching and Extracting Data from Files</b> </li>
-    <li><b>Turning Commands into a Script</b> </li>
+    <li><b>Archiving Files on the Command Line: </b>Creating an archive using the command line, and then adding or extracting files from an archive. Also used compression to reduce file sizes.</li>
+    <li><b>Searching and Extracting Data from Files: </b>Looked at command line pipes, regular expressions, and using I/O redirection to create files from a command or to read input into a command from a file.</li>
+    <li><b>Turning Commands into a Script: </b>Learned about basic shell scripting and common text editors nano and vim.</li>
   </ul>
  </details>
  <details>
   <summary>The Linux Operating System</summary><br>
   <ul>
-    <li><b>Choosing an Operating System</b> </li>
-    <li><b>Understanding Computer Hardware</b> </li>
-    <li><b>Where Data is Stored</b> </li>
-    <li><b>Your Computer on the Network</b></li>
+    <li><b>Choosing an Operating System: </b>Observed the differences between Windows, OS X, and Linux. We also examined the distribution lifecycle to help understand how to a Linux distribution for a specific use case.</li>
+    <li><b>Understanding Computer Hardware: </b>Worked to understand how hardware components such as the processor, the motherboard, data storage, and memory work together with the help of drivers. Also used commands including, df, lscpu, lshw, dmidecode, and free to get more information about the hardware.</li>
+    <li><b>Where Data is Stored: </b>Knowing where configuration data is stored and where to find process data, in addition to using kernel message to troubleshoot hardware device issues. Also learned about logs and the curl command as a method to find more information or troubleshoot.</li>
+    <li><b>Your Computer on the Network: </b>Gained a general understanding of networks, routers, and the internet; how data moves through the network, and how Linux operates on the network. Used DNS configuration and examined network settings using commands such as ipconfig.</li>
   </ul>
  </details>
  <details>
   <summary>Security and File Permissions</summary><br>
   <ul>
-    <li><b>Basic Security and Identifying User Types</b> </li>
-    <li><b>Creating Users and Groups</b> </li>
-    <li><b>Managing File Permissions and Ownership</b> </li>
-    <li><b>Special Directories and Files</b></li>
+    <li><b>Basic Security and Identifying User Types: </b>Compared root and standard users and used the sudo command to elevate permissions for standard users. Also compared standard users to system or service users. </li>
+    <li><b>Creating Users and Groups: </b>Learned more about how to manage a Linux system by creating or modifying users and groups. Also looked at user IDs in the Linux operating system and used the command line to determine UID and GID schemes.</li>
+    <li><b>Managing File Permissions and Ownership: </b>Modified ownership and modes of files and directories to restrict access to those items.</li>
+    <li><b>Special Directories and Files: </b>Created temporary files and looked at the differences between directories depending on file holding needs. Also used symbolic links to reference files or directories, and learned how to work with those when filenames change.</li>
   </ul>
  </details>
  <details>
