@@ -47,7 +47,7 @@
   <img src= "Dashboard4.png" alt="Power BI Dashboard"><br>
 </details><br>
 
-##Linux
+## Linux
 <details>
   <summary>The Linux Community and a Career in Open Source><br>
   <ul>
