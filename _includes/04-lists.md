@@ -53,8 +53,8 @@
   <ul>
     <li><b>Linux Evolution and Popular Operating Systems: </b>Gained an understanding of distributions in the Linux operating system and learned about popoular distributions. I also looked at embedded systems and learned more about how Linux has empowered computer workloads in the cloud. Finally, I used the command line to connect to a remote server using SSH, and ran some simple commands such as whoami, ls, pwd, last, uptime, and man.</li>
     <li><b>Major Open-Source Applications: </b>For this section I learned more about open-source applications that use Linux, including browsers, email clients and office applications. We also learned about Linux server applications such as Apache, MySQL and NGINX in addition to a few scripting languages. Lastly we talked about package management, and installed RPM and DEB packages on a remote server. </li>
-    <li><b>Open-Source Software and Licensing</b> </li>
-    <li><b>ICT Skills and Working in Linux</b></li>
+    <li><b>Open-Source Software and Licensing: </b>This section expanded upon what it means for something to be open source and the different types of open-source licenses that exist.</li>
+    <li><b>ICT Skills and Working in Linux: </b>Learned about using a Linux desktop in terms of configuration, web usage, and privacy.I also learned more about accessing the command line by setting up an SSH connection to a remote host via my local macOS terminal, and used commands to determine which distribution I was running.</li>
   </ul>
 </details>
 <details>
