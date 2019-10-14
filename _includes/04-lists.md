@@ -74,7 +74,7 @@
     <li><b>Turning Commands into a Script</b> </li>
   </ul>
  </details>
-      <details>
+ <details>
   <summary>The Linux Operating System</summary><br>
   <ul>
     <li><b>Choosing an Operating System</b> </li>
@@ -91,5 +91,9 @@
     <li><b>Managing File Permissions and Ownership</b> </li>
     <li><b>Special Directories and Files</b></li>
   </ul>
+ </details>
+ <details>
+  <summary>Linux Certification</summary><br>
+  <img src= "doc.png" alt="Linux Certification"><br>
  </details>
          
