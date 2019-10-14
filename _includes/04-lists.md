@@ -46,3 +46,50 @@
   <img src= "Dashboard3.png" alt="Power BI Dashboard"><br><br>
   <img src= "Dashboard4.png" alt="Power BI Dashboard"><br>
 </details><br>
+
+##Linux
+<details>
+  <summary>The Linux Community and a Career in Open Source><br>
+  <ul>
+    <li><b>Linux Evolution and Popular Operating Systems</b> </li>
+    <li><b>Major Open-Source Applications</b> </li>
+    <li><b>Open-Source Software and Licensing</b> </li>
+    <li><b>ICT Skills and Working in Linux</b></li>
+  </ul>
+ </details>
+  <details>
+  <summary>Finding Your Way on a Linux System><br>
+  <ul>
+    <li><b>Command Line Basics</b> </li>
+    <li><b>Using the Command Line to Get Help</b> </li>
+    <li><b>Using Directories and Listing Files</b> </li>
+    <li><b>Creating, Moving, and Deleting Files</b></li>
+  </ul>
+ </details>
+    <details>
+  <summary>The Power of the Command Line><br>
+  <ul>
+    <li><b>Archiving Files on the Command Line</b> </li>
+    <li><b>Searching and Extracting Data from Files</b> </li>
+    <li><b>Turning Commands into a Script</b> </li>
+  </ul>
+ </details>
+      <details>
+  <summary>The Linux Operating System><br>
+  <ul>
+    <li><b>Choosing an Operating System</b> </li>
+    <li><b>Understanding Computer Hardware</b> </li>
+    <li><b>Where Data is Stored</b> </li>
+    <li><b>Your Computer on the Network</b></li>
+  </ul>
+ </details>
+        <details>
+  <summary>Security and File Permissions><br>
+  <ul>
+    <li><b>Basic Security and Identifying User Types</b> </li>
+    <li><b>Creating Users and Groups</b> </li>
+    <li><b>Managing File Permissions and Ownership</b> </li>
+    <li><b>Special Directories and Files</b></li>
+  </ul>
+ </details>
+         
