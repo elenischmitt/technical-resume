@@ -95,5 +95,11 @@
  <details>
   <summary>Linux Certification</summary><br>
   <img src= "doc.png" alt="Linux Certification"><br>
- </details>
+ </details><br>
+
+##AlgoVPN
+<details>
+  <summary>VPN Setup with Ubuntu</summary><br>
+  I used Ubuntu via VirtualBox to set up an AlgoVPN with Digital Ocean.<br>
+  <img src="vpn_proof.png"><br>
          
