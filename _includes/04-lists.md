@@ -136,5 +136,9 @@
   </details>
   <details>
   <summary>Serverless Compute</summary><br>
-  <br>
+  This section covered Lambda, which lets you run code without having to manage or configure servers. As part of this training, I created a basic Lambda function used to shut down an EC2 instance.<br>
   </details>
+  <details>
+  <summary>AWS Certification</summary><br>
+  <img src= "awscert.png" alt="AWS Certification"><br>
+ </details>
