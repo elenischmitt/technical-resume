@@ -103,9 +103,9 @@
   <summary>VPN Setup with Ubuntu</summary><br>
   I used Ubuntu via VirtualBox to set up an AlgoVPN with Digital Ocean. WireGuard was used to activate and deactivate the VPN. The following image shows my IP address before activating the VPN, and then after. You can see that the IP address in the second image matches the IP address shown for my Digital Ocean droplet.<br><br>
   <img src="vpn_proof.png"><br>
-</details>
+</details><br>
   
-  ## AWS
+## AWS
   <details>
   <summary>Managing AWS Access with Users, Groups, and Roles</summary><br>
   Covered AWS Identity and Access Management or IAM, and learned how to set up and configure users, groups, roles, and policies in order to control who has access to AWS resources.<br>
@@ -125,8 +125,16 @@
   <details>
   <summary>Database Services</summary><br>
   In this section I learned about the database services AWS offers such as Amazon RDS (Relational Database Services) and DynamoDB. As part of a lab I created a MySQL compatible Aurora RDS Database. This process included verifying security groups, network access control lists, and route tables to allow for communication between a private and public subnet, and creating a EC2 instance in order to connect to the RDS database.<br>
+  </details>
   <details>
   <summary>Monitoring, Alerts, and Notifications</summary><br>
+  This section worked with with Amazon SNS, or Simple Notification Service, and I learned how Amazon SNS can be used to push messages out from publishers to subscribers. I also learned about AWS management tools, namely CloudWatch, which can be used to monitor elements within an AWS account. As part of a lab, I created a new SNS topic, and then created a CloudWatch Events rule to prompt that topic and provide an email notification whenever there was a state change to an EC2 instance. This section also discussed CloudTrail for the purpose of tracking actions on an AWS account.<br>
+  </details>
+  <details>
+  <summary>Load Balancing, Elasticity, and Scalability</summary><br>
+  This section touched on Amazon's Electric Load Balancer (ELB) which can be applied to evenly distribute traffic between EC2 instances, Auto Scaling, which can be used to increase or reduce the number of EC2 instances needed, and Route 53, which is a cloud Domain Name System service. As part of a lab I created and configured an application load balancer, including creating an auto scaling group using my own launch configuration, which I tested with an alias record. <br>
+  </details>
+  <details>
+  <summary>Serverless Compute</summary><br>
   <br>
   </details>
-         
