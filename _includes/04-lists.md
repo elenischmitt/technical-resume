@@ -103,4 +103,30 @@
   <summary>VPN Setup with Ubuntu</summary><br>
   I used Ubuntu via VirtualBox to set up an AlgoVPN with Digital Ocean. WireGuard was used to activate and deactivate the VPN. The following image shows my IP address before activating the VPN, and then after. You can see that the IP address in the second image matches the IP address shown for my Digital Ocean droplet.<br><br>
   <img src="vpn_proof.png"><br>
+</details>
+  
+  ## AWS
+  <details>
+  <summary>Managing AWS Access with Users, Groups, and Roles</summary><br>
+  Covered AWS Identity and Access Management or IAM, and learned how to set up and configure users, groups, roles, and policies in order to control who has access to AWS resources.<br>
+  </details>
+<details>
+  <summary>Networking Services and Connectivity</summary><br>
+  Learned about how AWS operates as a global system with worldwide infrastructure. Also covered Virtual Private Clouds, or VPCs, and created a basic VPC which included configuring internet gateways, routing tables, network access control lists, and establishing subnets across multiple Availability Zones.<br>
+  </details>
+  <details>
+  <summary>Compute Services</summary><br>
+  For this section I configured a Linux EC2 (Elastic Cloud Compute) instance, which I continued to from my Mac terminal via SSH. Configuring this instance included setting up security rules for inbound and outbound traffic. I also learned how to connect to a Windows EC2 instance using Putty.<br>
+  </details>
+  <details>
+  <summary>Storage Services</summary><br>
+  This section covered Amazon S3, or Amazon Simple Storage Service. I learned about the different storage classes that are available depending on user needs, and created both public and private Amazon S3 buckets to store folders and objects in. I also enabled versions to ensure that various versions of the same bucket would be available. Finally, I created a basic Amazon S3 Lifecycle Policy to control how long an object stays in a specific storage class.<br>
+  </details>
+  <details>
+  <summary>Database Services</summary><br>
+  In this section I learned about the database services AWS offers such as Amazon RDS (Relational Database Services) and DynamoDB. As part of a lab I created a MySQL compatible Aurora RDS Database. This process included verifying security groups, network access control lists, and route tables to allow for communication between a private and public subnet, and creating a EC2 instance in order to connect to the RDS database.<br>
+  <details>
+  <summary>Monitoring, Alerts, and Notifications</summary><br>
+  <br>
+  </details>
          
