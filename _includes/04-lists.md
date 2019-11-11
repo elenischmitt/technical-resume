@@ -143,5 +143,5 @@
   <summary>Algo VPN and OpenVPN with AWS</summary><br>
   After completing the AWS Essentials training, I set up an EC2 instance on AWS and used that to run a VPN using both Algo VPN and OpenVPN.<br><br>
   <img src= "awsalgo.png" alt="AWS Algo VPN"><br>
-  <img src= "awsopenvpn.png" alt="AWS OpenVPN"><br>
+  <img src= "awsopenvpn.PNG" alt="AWS OpenVPN"><br>
  </details><br>
