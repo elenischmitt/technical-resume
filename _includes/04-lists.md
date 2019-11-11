@@ -141,4 +141,8 @@
   <details>
   <summary>AWS Certification</summary><br>
   <img src= "awscert.png" alt="AWS Certification"><br>
+ </details>
+ <details>
+  <summary>Algo VPN and OpenVPN with AWS</summary><br>
+  <img src= "awscert.png" alt="AWS Certification"><br>
  </details><br>
