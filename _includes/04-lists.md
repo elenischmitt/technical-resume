@@ -96,12 +96,9 @@
   <summary>Linux Certification</summary><br>
   <img src= "doc.png" alt="Linux Certification"><br>
  </details>
- 
- <br>
-## AlgoVPN
-<details>
-  <summary>VPN Setup with Ubuntu</summary><br>
-  I used Ubuntu via VirtualBox to set up an AlgoVPN with Digital Ocean. WireGuard was used to activate and deactivate the VPN. The following image shows my IP address before activating the VPN, and then after. You can see that the IP address in the second image matches the IP address shown for my Digital Ocean droplet.<br><br>
+ <details>
+   <summary>Algo VPN with Digital Ocean</summary><br>
+  After completing my Linux Essentials training, I used Ubuntu via VirtualBox to set up an Algo VPN with Digital Ocean. I also used WireGuard to activate and deactivate the VPN. The following image shows my IP address before activating the VPN, and then after. You can see that the IP address in the second image matches the IP address shown for my Digital Ocean droplet.<br><br>
   <img src="vpn_proof.png"><br>
 </details><br>
   
@@ -144,5 +141,7 @@
  </details>
  <details>
   <summary>Algo VPN and OpenVPN with AWS</summary><br>
-  <img src= "awscert.png" alt="AWS Certification"><br>
+  After completing the AWS Essentials training, I set up an EC2 instance on AWS and used that to run a VPN using both Algo VPN and OpenVPN.<br><br>
+  <img src= "awsalgo.png" alt="AWS Algo VPN"><br>
+  <img src= "awsopenvpn.png" alt="AWS OpenVPN"><br>
  </details><br>
