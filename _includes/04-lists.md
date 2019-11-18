@@ -159,3 +159,19 @@
   <summary>Using the Power of the Pipeline</summary><br>
   This section explained how you can used the pipeline to string various commands together. One application of this pipleine is that you can work with CSV and XML files and import or export them from your existing information. You can also compare files to the processing you currently have. Finally, you can convert information into HTML webpages. <br><br>
   </details>
+  <details>
+  <summary>Getting More out of Objects</summary><br>
+  In this section I learned about PowerShell objects and how to get more information on them using cmdlets like "Get-Member." You can also sort the information you receive on objects using cmdlets like "Sort-Object," or you can create filters for that data. In addition, you can use cmdlets to create your own properties or rename the properties already shown in PowerShell.<br><br>
+  </details>
+<details>
+  <summary>Scripts and Automation</summary><br>
+  This section covered how to use PowerShell Integrated Scripting Environment to record commands you've built. Just like when writing commands, you can include parameters when scripting to focus on the items that matter to you. One way I learned how to store this scripts is through variables, which is a type of temporary storage on PowerShell. Finally, it can be helpful to include comments in your scripts to act as a guide for when you want to use those commands later. <br><br>
+  </details>
+  <details>
+  <summary>Scalable Management with PowerShell Remoting</summary><br>
+  This last section introduced PowerShell remoting, starting with enabling PowerShell remoting so you can use it on your machine. Powershell remoting can be used in a one-to-one capacity between devices, or you can can scale to a one-to-may relationship, and operate many machines using a single device. <br><br>
+  </details>
+  <summary>PowerShell Essentials Certification</summary><br>
+  <br>
+  <img src= "PowerShellCert.png" alt="PowerShell Certification"><br>
+ </details><br>
