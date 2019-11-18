@@ -145,3 +145,17 @@
   <img src= "awsalgo.png" alt="AWS Algo VPN"><br>
   <img src= "awsopenvpn.PNG" alt="AWS OpenVPN"><br>
  </details><br>
+
+## PowerShell
+  <details>
+  <summary>Discovery and Getting Help</summary><br>
+  For this first training segment, I learned how Linux skills can transfer into PowerShell. Like with Linux, PowerShell allows you to search for different commands, or cmdlets, using commands like "get-help," so there is no need to memorize the thousands of commands that exist. You can also modify "get-help" with commands like "-Detailed" or "-ShowWindow," which provides you more information and examples of how different cmdlets work. Finally, we learned about cmdlet syntax and how to use parameteres and arguments<br><br>
+  </details>
+  <details>
+  <summary>Extending Your Capabilities with PowerShell</summary><br>
+  In this section I learned about using snap-ins and modules in PowerShell. This included learning how to find and install different modules using methods such as dynamic importing, in addition to looking for modules using Microsoft repositories or a local repository. <br><br>
+  </details>
+  <details>
+  <summary>Using the Power of the Pipeline</summary><br>
+  This section explained how you can used the pipeline to string various commands together. One application of this pipleine is that you can work with CSV and XML files and import or export them from your existing information. You can also compare files to the processing you currently have. Finally, you can convert information into HTML webpages. <br><br>
+  </details>
