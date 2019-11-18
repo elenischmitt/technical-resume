@@ -171,6 +171,7 @@
   <summary>Scalable Management with PowerShell Remoting</summary><br>
   This last section introduced PowerShell remoting, starting with enabling PowerShell remoting so you can use it on your machine. Powershell remoting can be used in a one-to-one capacity between devices, or you can can scale to a one-to-may relationship, and operate many machines using a single device. <br><br>
   </details>
+ <details>
   <summary>PowerShell Essentials Certification</summary><br>
   <br>
   <img src= "PowerShellCert.png" alt="PowerShell Certification"><br>
