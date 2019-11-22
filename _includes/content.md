@@ -1,5 +1,32 @@
 <h2>Education</h2>
+<div class="content">
+  <details>
+    <summary>University of Tulsa: Computer Information Systems and International Business, B.S.B.A.</summary><br>
+    <p class="par">Insert blurb about business majors.</p>
+  </details>
+  <details>
+    <summary>University of Tulsa: German, B.A.</summary><br>
+    <p class="par">Insert blurb about German major.</p>
+  </details>
+  <details>
+    <summary>Study Abroad</summary><br>
+    <ul>
+      <li><b>University of Siegen, Germany</b>
+        <p class="par">Insert blurb about Germany.</p>
+      </li><br>
+      <li><b>Cape Town, South Africa</b>
+        <p class="par">Insert blurb about CT.</p>
+      </li><br>
+      <li><b>Rio de Janeiro, Brazil</b>
+        <p class="par">Insert blurb about Rio.</p>
+      </li><br>
+    </ul>
+  </details>
+</div>
 <h2>Work Experience</h2>
+<div class="content">
+  
+</div>
 <h2>Technical Skills</h2>
 <div class="content">
 <details>
