@@ -22,11 +22,14 @@
       </li><br>
     </ul>
   </details>
-</div>
+</div><br>
 <h2>Work Experience</h2>
 <div class="content">
-  
-</div>
+  <details>
+    <summary>ONE Gas</summary><br>
+    <p class="par">Insert blurb about work.</p>
+  </details>
+</div><br>
 <h2>Technical Skills</h2>
 <div class="content">
 <details>
@@ -216,4 +219,4 @@
     <img src= "PowerShellCert.png" alt="PowerShell Certification"><br>
    </details><br>
 </details>
-</div>
+</div><br>
