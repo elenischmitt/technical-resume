@@ -1,6 +1,7 @@
-<h2>Education</h2><br>
-<h2>Work Experience</h2><br>
-<h2>Technical Skills</h2><br>
+<h2>Education</h2>
+<h2>Work Experience</h2>
+<h2>Technical Skills</h2>
+<div class="content">
 <details>
   <summary>GitHub</summary><br>
   <details>
@@ -188,3 +189,4 @@
     <img src= "PowerShellCert.png" alt="PowerShell Certification"><br>
    </details><br>
 </details>
+</div>
