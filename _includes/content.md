@@ -1,11 +1,11 @@
 <h2>Education</h2>
 <div class="content">
   <details>
-    <summary>University of Tulsa: Computer Information Systems and International Business, B.S.B.A.</summary><br>
+    <summary>B.S.B.A. in Computer Information Systems and International Business, University of Tulsa</summary><br>
     <p class="par">Insert blurb about business majors.</p>
   </details>
   <details>
-    <summary>University of Tulsa: German, B.A.</summary><br>
+    <summary>B.A. in German, University of Tulsa</summary><br>
     <p class="par">Insert blurb about German major.</p>
   </details>
   <details>
