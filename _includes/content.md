@@ -44,7 +44,7 @@
     <img src= "Dashboard1.png" alt="Power BI Dashboard"><br>
     <img src= "Dashboard2.png" alt="Power BI Dashboard"><br><br>
     <img src= "Dashboard3.png" alt="Power BI Dashboard"><br><br>
-    <img src= "Dashboard4.png" alt="Power BI Dashboard"><br>
+  <img src= "Dashboard4.png" alt="Power BI Dashboard"><br></p>
 </details>
 
 <details>
@@ -68,5 +68,11 @@
   <summary>PowerShell</summary><br>
     <p>I worked with PowerShell through the <a href="https://www.linkedin.com/learning/powershell-5-essential-training/">PowerShell 5 Essential Training</a> course on LinkedIn. The first training segment in this course touched on the cross-over between Linux and PowerShell, and I learned how you can used commands, or cmdlets, such as "get-help" to find out more information about other commands. I also learned about cmdlet syntax and used parameters and arguments to adjust commands. In the next section I learned about using snap-ins and modules in PowerShell, and  installed modules using methods like dynamic importing. During this course I also learned how to use the pipeline to string commands together, and how you can also use the pipeline to work with CSV, XML, and HTML files. Moving forward, I learned about PowerShell objects and used cmdlets like "Get-Member" and "Sort-Object" to get and filter data. I also learned how to use the PowerShell Integrated Scripting Environment to record commands through variables. Finally, I enabled PowerShell remoting to use on my machine, and learned about the scalability of PowerShell remoting.</p>
     <p>Here is the certificate I earned for completing this course: <img src= "PowerShellCert.png" alt="PowerShell Certification"></p>
+</details>
+
+<details>
+  <summary>Salesforce</summary><br>
+    <p>I completed the <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Admin Beginner</a> trail through Saleforce Trailhead.</p>
+    <p>Here is the certificate I earned for completing this course:</p>
 </details>
 </div><br>
