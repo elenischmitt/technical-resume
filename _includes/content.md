@@ -12,13 +12,13 @@
     <summary>Study Abroad</summary><br>
     <ul>
       <li><b>University of Siegen, Germany</b>
-        <p class="par">Insert blurb about Germany.</p>
+        <p class="par">During my sophomore year of college I studied abroad at the University of Siegen in western Germany. I was enrolled with regular German students in classes like "The Political Sociology of Mexico" and "Asylum and Refugee Protection in Europe," and received 12 hours of German Language & Culture credits during my semester.</p>
       </li><br>
       <li><b>Cape Town, South Africa</b>
-        <p class="par">Insert blurb about CT.</p>
+        <p class="par">As a member of the <a href="https://global.utulsa.edu/global-scholars-program/">Global Scholars Program</a> at TU, I took a course titled Sustainability and Urban Development that started in Tulsa ended with a couple of weeks in Cape Town, where we got to learn more about the development of the city and the surrounding area.</p>
       </li><br>
       <li><b>Rio de Janeiro, Brazil</b>
-        <p class="par">Insert blurb about Rio.</p>
+        <p class="par">As part of a class titled Doing Business in Emerging Economies, I went on a faculty-led trip to Rio de Janeiro. There we toured companies ranging from multinational oil corporations to tech startups to local craft-based businesses, while learning about the motivation, risks, and customs behind performing business in emerging economies.</p>
       </li><br>
     </ul>
   </details>
@@ -27,7 +27,7 @@
 <div class="content">
   <details>
     <summary>ONE Gas</summary><br>
-    <p class="par">Insert blurb about work.</p>
+    <p class="par">I completed a 10 week internship with ONE Gas this past summer of 2019, and am currently working here part-time while I finish my studies. Throughout my time at ONE Gas, I've used Microsoft Dynamics 365 to create and customize views, forms, entities, and other objects for our business users. I'm also working on a project with our Enterprise Architecture team to ensure good data management across our organization.</p>
   </details>
 </div><br>
 <h2>Technical Skills</h2>
