@@ -73,6 +73,6 @@
 <details>
   <summary>Salesforce</summary><br>
     <p>I completed the <a href="https://trailhead.salesforce.com/en/content/learn/trails/force_com_admin_beginner">Admin Beginner</a> trail through Salesforce Trailhead. This trail introduced me to the Salesforce platform and how to use their architecture for development. I gained exposure to the standard objects that are built in with Salesforce, and also created custom objects with unique object relationships. I also learned how you can import data into Salesforce and export data from it. In another module I learned about the Lightning experience and created and customized Lightning apps for my organization. I also edited list views, used compact and page layouts, and created buttons, links, and quick actions. Towards the end of the course I learned how to use and customize the Salesforce mobile app. Finally, I built reports and dashboards to help visualize my organization's data.</p>
-    <p>Here is the certificate I earned for completing this course:</p>
+    <p>Here is the certificate I earned for completing this course:<br><img src= "salesforce.png" alt="Salesforce Admin Beginner Trail"></p>
 </details>
 </div><br>
