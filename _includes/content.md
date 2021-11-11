@@ -1,21 +1,21 @@
 <h2>Education</h2>
 <div class="content">
   <details>
-    <summary>B.S.B.A. in Computer Information Systems and International Business, University of Tulsa</summary><br>
-    <p class="par">Insert blurb about business majors.</p>
+    <summary>B.S.B.A. in Computer Information Systems and International Business, University of Tulsa, May 2020</summary><br>
+    <p class="par">I majored in both Computer Information Systems and International Business while completing my business degree. I was drawn to Computer Information Systems because I love numbers and data, and am very interested in how we can utilize data analysis to make rational decisions. Completing the Computer Information Systems program at TU also gave me a solid logical foundation that I have been able to apply to various coding languages and relational systems, in addition to providing me with some of the specific technical skills outlined in this resume. I added International Business to my studies to reflect some of my passions. I have always loved traveling and learning new languages, and I hope that one day I'll be able to combine my technical knowledge with my interest in other cultures. </p>
   </details>
   <details>
-    <summary>B.A. in German, University of Tulsa</summary><br>
-    <p class="par">Insert blurb about German major.</p>
+    <summary>B.A. in German, University of Tulsa, May 2020</summary><br>
+    <p class="par">I started learning German when I was 12, simply because my older sister had taken the same classes in school and it seemed like a good idea. Little did I know that I would continue taking German classes for the next 10 years, and end up with a degree in it. While majoring in German helped me to become fluent in the language and gain appreciation for another culture, it also challenged me to think in different ways than I was used to with my business classes. Throughout my courses at TU I got to read literature from Uwe Timm to Franz Kafka to the Brothers Grimm, and learned a lot about analysis and creative thinking that I've since been able to apply to other areas of study.</p>
   </details>
   <details>
-    <summary>Study Abroad</summary><br>
+    <summary>Study Abroad, 2017-2019</summary><br>
     <ul>
       <li><b>University of Siegen, Germany</b>
-        <p class="par">During my sophomore year of college I studied abroad at the University of Siegen in western Germany. I was enrolled with regular German students in classes like "The Political Sociology of Mexico" and "Asylum and Refugee Protection in Europe," and received 12 hours of German Language & Culture credits during my semester.</p>
+        <p class="par">In the spring of 2018 I studied abroad at the University of Siegen in western Germany. I was enrolled with regular German students in a variety of German classes such as "The Political Sociology of Mexico", "Democracy and Discrimination," and "Asylum and Refugee Protection in Europe." While these topics may not have been relevant to my business degree, I received 12 hours of German Language & Culture credits during my semester and was able to solidify by abilities as a fluent speaker while learning about topics and people I would not have otherwise been exposed to.</p>
       </li><br>
       <li><b>Cape Town, South Africa</b>
-        <p class="par">As a member of the <a href="https://global.utulsa.edu/global-scholars-program/">Global Scholars Program</a> at TU, I took a course titled Sustainability and Urban Development that started in Tulsa ended with a couple of weeks in Cape Town, where we got to learn more about the development of the city and the surrounding area.</p>
+        <p class="par">As a member of the Global Scholars Program at TU, I took a course titled Sustainability and Urban Development that started in Tulsa and ended with a couple of weeks in Cape Town during the summer of 2017. During this trip, we were able to learn more about the development of the city and the surrounding area through a mixture of lecutres as well as in-person tours, such as a tour of Cape Town's public transit given to us by a city planner. The course emphasized how development can be sustainable, not just in terms of the environment, but also economically and socially for a given community.</p>
       </li><br>
       <li><b>Rio de Janeiro, Brazil</b>
         <p class="par">As part of a class titled Doing Business in Emerging Economies, I went on a faculty-led trip to Rio de Janeiro. There we toured companies ranging from multinational oil corporations to tech startups to local craft-based businesses, while learning about the motivation, risks, and customs behind performing business in emerging economies.</p>
@@ -27,7 +27,14 @@
 <div class="content">
   <details>
     <summary>ONE Gas</summary><br>
-    <p class="par">I completed a 10 week internship with ONE Gas this past summer of 2019, and am currently working here part-time while I finish my studies. Throughout my time at ONE Gas, I've used Microsoft Dynamics 365 to create and customize views, forms, entities, and other objects for our business users. I'm also working on a project with our Enterprise Architecture team to ensure good data management across our organization.</p>
+    <ul>
+      <li><b>Development Analyst, June 2020 to Present</b>
+        <p class="par">Since June of 2020 I have worked as a Development Analyst for ONE Gas, a natural gas distribution company headquartered in Tulsa, OK. My main role has involved working with a team of developers to implement changes to Microsoft Dynamics 365, which is a Customer Relationship Management system. Throughout my time at the company, I have published over 140 changes to our system, allowing for a range of increased functionalities from recording new data to improved metrics for reporting. Starting in the fall of 2021, I also assisted the company in recruiting new candidates for our IT internship program.</p>
+      </li><br>
+      <li><b>Intern, May 2019 to June 2020</b>
+        <p class="par">I completed a 10 week internship with ONE Gas during the summer of 2019, and continued to work part-time during the last year of my studies. During this time I was trained to be a developer for Microsoft Dynamics 365, and I worked on various projects where I created and customized views, forms, entities, and other objects for our business users. I also partnered with our Enterprise Architecture team on a project to ensure good data management across the organization.</p>
+      </li><br>
+    </ul>
   </details>
 </div><br>
 <h2>Technical Skills</h2>
