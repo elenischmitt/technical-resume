@@ -1,1 +1,1 @@
-I am student and soon-to-be developer currently based in Tulsa, Oklahoma. 
+I am a development analyst currently based in Tulsa, Oklahoma. 
