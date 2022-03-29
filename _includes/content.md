@@ -42,7 +42,7 @@
 
 <details>
   <summary>ASP.NET Core</summary><br>
-    <p>I completed the course <a href="https://www.pluralsight.com/courses/aspnetcore-mvc-efcore-bootstrap-angular-web" target="_blank" rel="noopener noreferrer">Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular</a> via Pluralsight. In this course, I built a website in Visual Studio using Microsoft's ASP.NET Core framework as well as HTML, Javascript, CSS, and C#, among other technologies. I also got to practice building APIs and deploying my app to the cloud./p>
+    <p>I completed the course <a href="https://www.pluralsight.com/courses/aspnetcore-mvc-efcore-bootstrap-angular-web" target="_blank" rel="noopener noreferrer">Building a Web App with ASP.NET Core, MVC, Entity Framework Core, Bootstrap, and Angular</a> via Pluralsight. In this course, I built a website in Visual Studio using Microsoft's ASP.NET Core framework as well as HTML, Javascript, CSS, and C#, among other technologies. I also got to practice building APIs and deploying my app to the cloud.</p>
 </details>
   
 <details>
@@ -69,7 +69,7 @@
   
 <details>
   <summary>Oracle PL/SQL</summary><br>
-    <p>I completed the course <a href="https://app.pluralsight.com/library/courses/oracle-plsql-fundamentals/table-of-contents" target="_blank" rel="noopener noreferrer">Oracle PL/SQL Fundamentals - Part 1</a> via Pluralsight. In this course, I developed an understanding of Pl/SQL datatypes, along with programming constructs including but not limited to loops, conditional execution, cursors, and exception handling. I was also able to practice how to effectively debug my code./p>
+    <p>I completed the course <a href="https://app.pluralsight.com/library/courses/oracle-plsql-fundamentals/table-of-contents" target="_blank" rel="noopener noreferrer">Oracle PL/SQL Fundamentals - Part 1</a> via Pluralsight. In this course, I developed an understanding of Pl/SQL datatypes, along with programming constructs including but not limited to loops, conditional execution, cursors, and exception handling. I was also able to practice how to effectively debug my code.</p>
 </details>
 
 <details>
@@ -90,7 +90,7 @@
 
 <details>
   <summary>RPA</summary><br>
-    <p>I completed the course <a href="https://www.uipath.com/community/rpa-community-blog/citizen-developer-foundation-uipath-academy-course" target="_blank" rel="noopener noreferrer">RPA Citizen Developer Foundation</a> through UiPath. This course exposed me to UiPath's StudioX application and showed me how to use it to create a variety of automations./p>
+    <p>I completed the course <a href="https://www.uipath.com/community/rpa-community-blog/citizen-developer-foundation-uipath-academy-course" target="_blank" rel="noopener noreferrer">RPA Citizen Developer Foundation</a> through UiPath. This course exposed me to UiPath's StudioX application and showed me how to use it to create a variety of automations.</p>
 </details>
 
 <details>
